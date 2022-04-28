@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="600.0" minWidth="850.0" prefHeight="600.0" prefWidth="850.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.cuny.ccny.a5.Assignment5_Controller">
+    <left>
+        <BorderPane prefWidth="200.0" BorderPane.alignment="CENTER">
+            <center>
+                <VBox prefWidth="160.0" spacing="10.0">
+                    <TitledPane animated="false" prefWidth="150.0" text="Drawing Color" VBox.vgrow="NEVER">
+                        <font>
+                            <Font name="System Bold" size="14.0" />
+                        </font>
+                        <VBox spacing="5.0">
+                            <RadioButton fx:id="rBtnBlack" mnemonicParsing="false" onAction="#colorChangeEventHandler" selected="true" text="Black">
+                                <opaqueInsets>
+                                    <Insets />
+                                </opaqueInsets>
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                                <toggleGroup>
+                                    <ToggleGroup fx:id="tgColor" />
+                                </toggleGroup>
+                            </RadioButton>
+                            <RadioButton fx:id="rBtnGreen" mnemonicParsing="false" onAction="#colorChangeEventHandler" text="Green" textFill="#0aa114" toggleGroup="$tgColor">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                            </RadioButton>
+                            <RadioButton fx:id="rBtnRed" mnemonicParsing="false" onAction="#colorChangeEventHandler" text="Red" textFill="#ea0e0e" toggleGroup="$tgColor">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                            </RadioButton>
+                            <RadioButton fx:id="rBtnBlue" mnemonicParsing="false" onAction="#colorChangeEventHandler" text="Blue" textFill="#122bde" toggleGroup="$tgColor">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                            </RadioButton>
+                        </VBox>
+                    </TitledPane>
+                    <TitledPane animated="false" prefWidth="150.0" text="Drawing Size" VBox.vgrow="NEVER">
+                        <font>
+                            <Font name="System Bold" size="14.0" />
+                        </font>
+                        <VBox spacing="5.0">
+                            <RadioButton fx:id="rBtnSmall" mnemonicParsing="false" onAction="#penSizeChangeEventHandler" text="Small (4pts)">
+                                <opaqueInsets>
+                                    <Insets />
+                                </opaqueInsets>
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                                <toggleGroup>
+                                    <ToggleGroup fx:id="tgPenSize" />
+                                </toggleGroup>
+                            </RadioButton>
+                            <RadioButton fx:id="rBtnMedium" mnemonicParsing="false" onAction="#penSizeChangeEventHandler" selected="true" text="Medium (8pts)" toggleGroup="$tgPenSize">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                            </RadioButton>
+                            <RadioButton fx:id="rBtnLarge" mnemonicParsing="false" onAction="#penSizeChangeEventHandler" text="Large (12Pts)" toggleGroup="$tgPenSize">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                            </RadioButton>
+                            <RadioButton fx:id="rBtnXLarge" mnemonicParsing="false" onAction="#penSizeChangeEventHandler" text="X-Large (16Pts)" toggleGroup="$tgPenSize">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                            </RadioButton>
+                        </VBox>
+                    </TitledPane>
+                    <TitledPane animated="false" prefWidth="150.0" text="Drawing Shape">
+                        <font>
+                            <Font name="System Bold" size="14.0" />
+                        </font>
+                        <VBox spacing="5.0">
+                            <RadioButton fx:id="rBtnCircle" mnemonicParsing="false" onAction="#shapeChangeEventHandler" selected="true" text="Circle">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                                <opaqueInsets>
+                                    <Insets />
+                                </opaqueInsets>
+                                <toggleGroup>
+                                    <ToggleGroup fx:id="tgShape" />
+                                </toggleGroup>
+                            </RadioButton>
+
+                            <RadioButton fx:id="rBtnTriangle" mnemonicParsing="false" onAction="#shapeChangeEventHandler" text="Triangle" toggleGroup="$tgShape">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                            </RadioButton>
+
+                            <RadioButton fx:id="rBtnDiamond" mnemonicParsing="false" onAction="#shapeChangeEventHandler" text="Diamond" toggleGroup="$tgShape">
+                                <font>
+                                    <Font name="System Bold" size="13.0" />
+                                </font>
+                            </RadioButton>
+
+
+                        </VBox>
+                    </TitledPane>
+               <ButtonBar prefHeight="40.0" prefWidth="200.0" />
+                </VBox>
+            </center>
+            <bottom>
+                <GridPane hgap="5.0" vgap="5.0" BorderPane.alignment="CENTER">
+                    <columnConstraints>
+                        <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                  <RowConstraints maxHeight="39.199999999999996" minHeight="10.0" prefHeight="39.199999999999996" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="27.999969482421875" minHeight="0.0" prefHeight="0.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="41.599999999999994" minHeight="10.0" prefHeight="34.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                    <BorderPane.margin>
+                        <Insets right="5.0" />
+                    </BorderPane.margin>
+                    <Button fx:id="btnUndo" mnemonicParsing="false" onAction="#undoButtonEventHandler" prefWidth="100.0" text="Undo Last" textAlignment="CENTER">
+                        <font>
+                            <Font size="14.0" />
+                        </font>
+                    </Button>
+                    <Button fx:id="btnReset" mnemonicParsing="false" onAction="#resetButtonEventHandler" prefWidth="100.0" text="Reset All" textAlignment="CENTER" GridPane.columnIndex="1">
+                        <font>
+                            <Font size="14.0" />
+                        </font>
+                    </Button>
+                    <Button fx:id="btnExit" contentDisplay="CENTER" mnemonicParsing="false" onAction="#exitButtonEventHandler" prefHeight="30.0" prefWidth="190.0" style="-fx-background-color: green;" text="Exit" textAlignment="CENTER" textFill="#fcf7f7" GridPane.columnSpan="2" GridPane.rowIndex="3">
+                        <font>
+                            <Font name="System Bold" size="14.0" />
+                        </font>
+                    </Button>
+               <Button fx:id="btnDiamondXml" contentDisplay="CENTER" mnemonicParsing="false" onAction="#diamondButtonEventHandler" prefHeight="30.0" prefWidth="190.0" text="Diamonds to XML" GridPane.columnSpan="2" GridPane.rowIndex="2" />
+                </GridPane>
+            </bottom>
+            <BorderPane.margin>
+                <Insets />
+            </BorderPane.margin>
+        </BorderPane>
+    </left>
+    <padding>
+        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+    </padding>
+    <center>
+        <BorderPane BorderPane.alignment="CENTER">
+            <center>
+                <Pane fx:id="panelDraw" onDragDetected="#drawingAreaMouseDragged" onMouseDragged="#drawingAreaMouseDragged" prefHeight="200.0" prefWidth="200.0" style="-fx-border-color: black;" BorderPane.alignment="CENTER">
+                    <BorderPane.margin>
+                        <Insets />
+                    </BorderPane.margin>
+                </Pane>
+            </center>
+            <padding>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+            </padding>
+        </BorderPane>
+    </center>
+</BorderPane>

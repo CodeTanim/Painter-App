@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>245.6</double>
+  </void>
+  <void property="y">
+   <double>144.79999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>245.6</double>
+  </void>
+  <void property="y">
+   <double>144.79999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>272.0</double>
+  </void>
+  <void property="y">
+   <double>124.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>284.0</double>
+  </void>
+  <void property="y">
+   <double>114.39999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>299.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>102.39999999999999</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>325.6</double>
+  </void>
+  <void property="y">
+   <double>93.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>336.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>90.39999999999999</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>349.6</double>
+  </void>
+  <void property="y">
+   <double>87.99999999999999</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>359.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>87.99999999999999</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>371.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>91.19999999999999</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>377.6</double>
+  </void>
+  <void property="y">
+   <double>92.79999999999995</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>381.6</double>
+  </void>
+  <void property="y">
+   <double>96.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>393.6</double>
+  </void>
+  <void property="y">
+   <double>115.19999999999999</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>396.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>134.39999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>396.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>144.79999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>396.0</double>
+  </void>
+  <void property="y">
+   <double>152.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>394.4</double>
+  </void>
+  <void property="y">
+   <double>164.79999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>392.0</double>
+  </void>
+  <void property="y">
+   <double>177.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>390.4</double>
+  </void>
+  <void property="y">
+   <double>184.79999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>388.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>189.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>385.6</double>
+  </void>
+  <void property="y">
+   <double>197.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>383.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>205.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>377.6</double>
+  </void>
+  <void property="y">
+   <double>219.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>375.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>228.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>372.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>234.39999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>368.0</double>
+  </void>
+  <void property="y">
+   <double>239.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>364.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>244.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>358.4</double>
+  </void>
+  <void property="y">
+   <double>252.80000000000004</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>354.4</double>
+  </void>
+  <void property="y">
+   <double>260.00000000000006</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>348.0</double>
+  </void>
+  <void property="y">
+   <double>268.80000000000007</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>341.6</double>
+  </void>
+  <void property="y">
+   <double>274.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>331.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>283.20000000000005</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>314.4</double>
+  </void>
+  <void property="y">
+   <double>292.00000000000006</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>304.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>294.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>294.4</double>
+  </void>
+  <void property="y">
+   <double>298.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>287.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>300.00000000000006</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>268.80000000000007</double>
+  </void>
+  <void property="y">
+   <double>303.20000000000005</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>251.20000000000002</double>
+  </void>
+  <void property="y">
+   <double>308.00000000000006</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>242.39999999999998</double>
+  </void>
+  <void property="y">
+   <double>309.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>232.8</double>
+  </void>
+  <void property="y">
+   <double>311.20000000000005</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>219.2</double>
+  </void>
+  <void property="y">
+   <double>312.80000000000007</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>201.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>314.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>192.8</double>
+  </void>
+  <void property="y">
+   <double>314.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>187.2</double>
+  </void>
+  <void property="y">
+   <double>314.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>174.39999999999998</double>
+  </void>
+  <void property="y">
+   <double>310.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>171.2</double>
+  </void>
+  <void property="y">
+   <double>309.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>165.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>306.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>162.39999999999998</double>
+  </void>
+  <void property="y">
+   <double>304.80000000000007</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>157.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>302.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>154.39999999999998</double>
+  </void>
+  <void property="y">
+   <double>299.20000000000005</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>148.8</double>
+  </void>
+  <void property="y">
+   <double>294.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>144.8</double>
+  </void>
+  <void property="y">
+   <double>288.80000000000007</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>141.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>282.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>140.8</double>
+  </void>
+  <void property="y">
+   <double>278.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>140.8</double>
+  </void>
+  <void property="y">
+   <double>268.80000000000007</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>140.8</double>
+  </void>
+  <void property="y">
+   <double>261.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>146.39999999999998</double>
+  </void>
+  <void property="y">
+   <double>246.4</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>157.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>210.39999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>169.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>186.39999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>180.0</double>
+  </void>
+  <void property="y">
+   <double>163.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>181.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>160.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>183.2</double>
+  </void>
+  <void property="y">
+   <double>158.39999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>184.8</double>
+  </void>
+  <void property="y">
+   <double>156.79999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>188.8</double>
+  </void>
+  <void property="y">
+   <double>156.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>192.0</double>
+  </void>
+  <void property="y">
+   <double>155.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>197.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>155.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>204.8</double>
+  </void>
+  <void property="y">
+   <double>155.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>210.39999999999998</double>
+  </void>
+  <void property="y">
+   <double>156.00000000000006</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>219.2</double>
+  </void>
+  <void property="y">
+   <double>157.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>225.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>160.8</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>229.60000000000002</double>
+  </void>
+  <void property="y">
+   <double>164.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>236.0</double>
+  </void>
+  <void property="y">
+   <double>169.59999999999997</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>245.6</double>
+  </void>
+  <void property="y">
+   <double>184.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>247.99999999999997</double>
+  </void>
+  <void property="y">
+   <double>191.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>250.39999999999995</double>
+  </void>
+  <void property="y">
+   <double>195.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>251.99999999999997</double>
+  </void>
+  <void property="y">
+   <double>199.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>253.6</double>
+  </void>
+  <void property="y">
+   <double>200.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>256.80000000000007</double>
+  </void>
+  <void property="y">
+   <double>205.59999999999997</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>258.4</double>
+  </void>
+  <void property="y">
+   <double>206.39999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>260.80000000000007</double>
+  </void>
+  <void property="y">
+   <double>208.8</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>265.6</double>
+  </void>
+  <void property="y">
+   <double>214.39999999999998</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>268.80000000000007</double>
+  </void>
+  <void property="y">
+   <double>216.8</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>272.80000000000007</double>
+  </void>
+  <void property="y">
+   <double>220.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>276.0</double>
+  </void>
+  <void property="y">
+   <double>224.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>280.80000000000007</double>
+  </void>
+  <void property="y">
+   <double>228.0</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>283.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>231.19999999999993</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>289.6</double>
+  </void>
+  <void property="y">
+   <double>235.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>296.0</double>
+  </void>
+  <void property="y">
+   <double>239.19999999999993</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>303.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>241.59999999999997</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>316.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>250.4</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>323.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>259.20000000000005</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>328.0</double>
+  </void>
+  <void property="y">
+   <double>267.2</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>331.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>274.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>334.4</double>
+  </void>
+  <void property="y">
+   <double>280.80000000000007</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>336.0</double>
+  </void>
+  <void property="y">
+   <double>284.80000000000007</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>338.4</double>
+  </void>
+  <void property="y">
+   <double>289.6000000000001</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>342.4</double>
+  </void>
+  <void property="y">
+   <double>297.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>347.20000000000005</double>
+  </void>
+  <void property="y">
+   <double>312.00000000000006</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>348.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>320.00000000000006</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>352.0</double>
+  </void>
+  <void property="y">
+   <double>332.00000000000006</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>352.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>337.59999999999997</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>354.4</double>
+  </void>
+  <void property="y">
+   <double>342.40000000000003</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>356.0</double>
+  </void>
+  <void property="y">
+   <double>345.6</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>356.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>348.80000000000007</double>
+  </void>
+ </object>
+ <object class="edu.cuny.ccny.a5.A5Diamond">
+  <void property="color">
+   <string>0x000000ff</string>
+  </void>
+  <void property="dimension">
+   <double>8.0</double>
+  </void>
+  <void property="x">
+   <double>356.79999999999995</double>
+  </void>
+  <void property="y">
+   <double>349.6</double>
+  </void>
+ </object>
+</java>
