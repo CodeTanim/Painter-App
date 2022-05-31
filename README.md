@@ -2,7 +2,7 @@
 A simple painter application written in Java that has the ability to draw using circle, triangle or diamond shapes with 4 different sizes and colors. Any drawn diamond shapes can also be serialized to a valid xml file which can be chosen by the user.
 
 
-# Feature Showcase:
+# Feature Showcase
 The video below shows all of the features of the application:
 
 https://user-images.githubusercontent.com/80434026/171096672-931072ac-fb85-44eb-9fda-d8dd9af5c927.mp4
