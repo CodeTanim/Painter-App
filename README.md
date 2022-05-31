@@ -15,4 +15,4 @@ The above video shows the following features in this order:
 3) How you can switch between 3 shapes.
 4) How you can undo your last drawn piece on the drawing board by clicking the "undo last" button.
 5) How you can clear the entire board and reset settings to default by clicking the "reset all" button. 
-6) Shows you a blank xml file, then by drawing some 
+6) Shows you a blank xml file, then by drawing some diamonds on the board, the "diamonds to xml" button is clicked to select the empty xml file and serialzie the drawn      diamonds on the board to that xml file. The newly written xml file is then shown. 
